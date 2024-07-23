@@ -1,4 +1,4 @@
-# name-matching-ui
+# ChatApp-UI
 A Simple Chat UI 
 
 ## User Interface (UI) Elements:
@@ -21,5 +21,10 @@ A Simple Chat UI
   - React Native or Expo.
   - TypeScript
 
+## Running the program:
+```
+npm install
+npx expo start
+```
 
 
